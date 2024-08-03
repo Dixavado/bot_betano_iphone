@@ -1,0 +1,14 @@
+{
+  "protocol": "http",
+  "hostname": "127.0.0.1",
+  "port": 4723,
+  "path": "/",
+  "platformName": "iOS",
+  "platformVersion": "17.5",
+  "deviceName": "iPhone 15 Pro Max",
+  "udid": "190C880A-8615-497A-BB3F-E4FBEC78B6F7",
+  "browserName": "Safari",
+  "automationName": "XCUITest",
+  "noReset": true,
+  "fullContextList": true
+}
